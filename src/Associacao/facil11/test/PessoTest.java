@@ -1,7 +1,7 @@
-package Associacao.facil.test;
+package Associacao.facil11.test;
 
-import Associacao.facil.domain.Pessoa;
-import Associacao.facil.domain.RG;
+import Associacao.facil11.domain.Pessoa;
+import Associacao.facil11.domain.RG;
 
 public class PessoTest {
     public static void main(String[] args) {

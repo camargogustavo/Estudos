@@ -1,4 +1,4 @@
-package Associacao.facil.domain;
+package Associacao.facil11.domain;
 
 public class RG {
     private int numero;

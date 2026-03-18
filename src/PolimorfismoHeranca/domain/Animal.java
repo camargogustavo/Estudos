@@ -1,0 +1,15 @@
+package PolimorfismoHeranca.domain;
+
+public abstract class Animal {
+    protected String nome;
+
+    public Animal(String nome) {
+        this.nome = nome;
+    }
+    public abstract void comer();
+    public abstract void emitirSom();
+
+    public String getNome() {
+        return nome;
+    }
+}
